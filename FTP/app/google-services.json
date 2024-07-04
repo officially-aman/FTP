@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "193247960045",
-    "project_id": "ftp-share-1",
-    "storage_bucket": "ftp-share-1.appspot.com"
+    "project_number": "120001201201",
+    "project_id": "ftp-share",
+    "storage_bucket": "ftp-sharem"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:193247960045:android:b1f1322531eafddc2125e4",
+        "mobilesdk_app_id": "None",
         "android_client_info": {
           "package_name": "com.aman.ftp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDFEgx-atbz_WQXJxByWv368DOiwl8PbeQ"
+          "current_key": "None"
         }
       ],
       "services": {
