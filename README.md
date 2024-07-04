@@ -28,7 +28,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Feedback 📧
 
-Have any questions, suggestions, or feedback? Reach out to us at aman.sharma.officially@email.com.
+Have any questions, suggestions, or feedback? Reach out to us at aman.sharma.officially@gmail.com.
 
 ## License 📄
 
